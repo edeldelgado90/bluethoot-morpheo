@@ -1,1 +1,1 @@
-A Qt test project playing with blueethoot
+A Qt test project playing with bluetooth
